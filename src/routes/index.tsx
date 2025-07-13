@@ -39,7 +39,7 @@ function App() {
               <h1 className="sr-only">BMT Huwaiza</h1>
               <div>
                 <img
-                  src="/huwaiza-web/logo/logo-huwaiza.png"
+                  src="/logo/logo-huwaiza.png"
                   alt="Logo Huwaiza"
                   className="h-28 md:h-40 w-auto"
                 />
@@ -75,7 +75,7 @@ function App() {
                 <div className="absolute top-0 right-0 w-40 h-40 bg-accent-600 rounded-full -translate-y-16 translate-x-16"></div>
                 <div className="absolute bottom-0 left-0 w-40 h-40 bg-primary-300 rounded-full translate-y-12 -translate-x-12"></div>
                 <img
-                  src="/huwaiza-web/images/placeholder.svg?height=400&width=400"
+                  src="/images/placeholder.svg?height=400&width=400"
                   alt="BMT Huwaiza Team"
                   width={400}
                   height={400}
@@ -184,7 +184,7 @@ function App() {
           </div>
           <div className="space-y-8 mx-auto max-w-5xl">
             <img
-              src="/huwaiza-web/images/keuntungan/rapat-anggota.png"
+              src="/images/keuntungan/rapat-anggota.png"
               className="w-full h-auto rounded-xl md:rounded-3xl"
             />
             <div className="grid md:grid-cols-3 gap-8">
@@ -673,7 +673,7 @@ function App() {
                 </div>
                 <div className="overflow-hidden rounded-lg shrink-0">
                   <img
-                    src="/huwaiza-web/images/baitulmal/qris.jpg"
+                    src="/images/baitulmal/qris.jpg"
                     alt="QRIS Baitulmal"
                     className="md:h-[300px] h-auto w-full md:w-auto"
                   />
@@ -714,7 +714,7 @@ function App() {
         <div className="container max-w-7xl mx-auto px-4 gap-6 flex flex-col items-center z-10">
           <div className="p-2 rounded-md bg-white shadow-md">
             <img
-              src="/huwaiza-web//logo/logo-huwaiza-square.png"
+              src="/logo/logo-huwaiza-square.png"
               alt="Logo Square BMT Huwaiza"
               className="h-18 w-18"
             />
@@ -779,7 +779,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 py-6">
             <div className="space-y-4">
               <img
-                src="/huwaiza-web//logo/logo-huwaiza.png"
+                src="/ogo/logo-huwaiza.png"
                 alt="Logo Huwaiza"
                 className="h-14 w-auto"
               />

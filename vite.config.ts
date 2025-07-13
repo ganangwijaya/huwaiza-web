@@ -12,7 +12,6 @@ export default defineConfig({
     viteReact(),
     tailwindcss(),
   ],
-  base: "/huwaiza-web/",
   build: {
     minify: true,
     sourcemap: false,
